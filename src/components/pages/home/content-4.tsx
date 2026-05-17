@@ -92,7 +92,7 @@ export default function Content4() {
 
   return (
     <>
-      <div className="relative h-screen overflow-hidden">
+      <div className="relative h-[1280.5px] lg:h-screen overflow-hidden">
         <div ref={sectionRef} className="h-screen overflow-hidden">
           <video ref={videoRef} className="w-full h-full object-cover object-center will-change-transform" autoPlay muted loop playsInline>
             <source src="/video/landing-video.mp4" type="video/mp4" />
@@ -101,7 +101,7 @@ export default function Content4() {
           <div className="absolute inset-0 bg-black/50"></div>
         </div>
 
-        <div className="absolute top-0 w-full lg:h-full z-2">
+        <div className="absolute inset-0 pt-16 z-2">
           <div className="w-[90vw] sm:w-[80vw] md:w-[75vw] xl:w-[65vw] h-full flex flex-col justify-end mx-auto z-2">
             <div className="p-6">
               <h2 className="text-5xl font-pp-neue-montreal font-light text-white mt-6 z-1">
