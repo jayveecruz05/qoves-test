@@ -1,0 +1,43 @@
+/* Light mode */
+:root {
+  /* Background colors */
+  --background: #ffffff;
+  --foreground: #ededed;
+  
+  /* Text colors */
+  --primary: #758084;
+  --secondary: #233137;
+  --tertiary: #515255;
+  --quaternary: #9AAEB5;
+
+  /* Border colors */
+  --primary-b: rgba(199, 209, 213, 0.3);
+}
+
+/* Dark mode */
+/* @media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+
+    --primary: #ededed;
+    --secondary: #0a0a0a;
+  }
+} */
+
+@theme {
+  /* Adding a custom color */
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-primary: var(--primary);
+  --color-secondary: var(--secondary);
+  --color-tertiary: var(--tertiary);
+  --color-quaternary: var(--quaternary);
+
+  --color-primary-b: var(--primary-b);
+
+  /* Adding a custom font family */
+  --font-pp-neue-montreal: var(--font-pp-neue-montreal);
+  --font-zagma-mono: var(--font-zagma-mono);
+}

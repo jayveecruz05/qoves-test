@@ -1,0 +1,185 @@
+[
+  {
+    "category": "General Questions",
+    "items": [
+      {
+        "question": "What is Qoves?",
+        "answer": "Qoves is a platform focused on helping people improve their appearance and facial aesthetics using science-based, non-surgical methods through personalized facial analysis and transformation plans."
+      },
+      {
+        "question": "Who is this for?",
+        "answer": "Qoves is for anyone who wants to improve their looks using science-based methods without surgery."
+      },
+      {
+        "question": "What exactly will I receive?",
+        "answer": "Users receive a comprehensive facial analysis, personalized glow-up protocol, biometric scores, before-and-after visualizations, an aesthetic letter, and messaging access to the care team."
+      },
+      {
+        "question": "Can’t I just do this with Chat GPT or Claude?",
+        "answer": "AI assistants can provide general guidance, but they cannot perform detailed facial landmarking, biometric analysis, or personalized recommendations like Qoves proprietary systems and experts."
+      },
+      {
+        "question": "How long will it take for me to receive my results?",
+        "answer": "Results are delivered within up to 28 days after photo upload."
+      },
+      {
+        "question": "How does it work?",
+        "answer": "Users answer questions, upload six photos, and receive a personalized analysis and improvement protocol within 28 days."
+      },
+      {
+        "question": "Is this a one-time report or a continuous service?",
+        "answer": "It is a continuous yearly subscription service with updated analyses, protocols, visualizations, and ongoing support."
+      },
+      {
+        "question": "How often do I need to submit photos?",
+        "answer": "Once a year for updated analysis and progress tracking."
+      },
+      {
+        "question": "What makes Qoves different from beauty apps or filters?",
+        "answer": "Qoves emphasizes precise measurements, realistic visualizations, and evidence-based recommendations tailored to the individual."
+      },
+      {
+        "question": "Are the recommendations expensive?",
+        "answer": "Qoves provides recommendations across different budgets, including affordable alternatives."
+      },
+      {
+        "question": "Do I have to follow everything perfectly for it to work?",
+        "answer": "No. Following most of the protocol should still lead to noticeable improvements."
+      }
+    ]
+  },
+  {
+    "category": "Experience & Use",
+    "items": [
+      {
+        "question": "How do I get started?",
+        "answer": "Users sign up on the website, complete payment, create an account, answer questionnaires, and upload photos."
+      },
+      {
+        "question": "Do I need to upload special photos?",
+        "answer": "Users need to upload six clear photos from different angles. No special equipment is required."
+      },
+      {
+        "question": "Do I have to download an app?",
+        "answer": "No. Qoves works directly in the browser on desktop and mobile."
+      },
+      {
+        "question": "Can I use this on mobile?",
+        "answer": "Yes. The entire experience is mobile-optimized."
+      }
+    ]
+  },
+  {
+    "category": "Pricing & Subscription",
+    "items": [
+      {
+        "question": "How much does it cost?",
+        "answer": "Qoves costs $150 per year."
+      },
+      {
+        "question": "What’s included in the analysis?",
+        "answer": "The analysis includes facial analysis, glow-up protocol, biometric scores, visualizations, and an aesthetic letter."
+      },
+      {
+        "question": "Is it a one-time payment or subscription?",
+        "answer": "It is a yearly subscription."
+      },
+      {
+        "question": "Can I cancel anytime?",
+        "answer": "Yes. Users can cancel or pause anytime from account settings."
+      }
+    ]
+  },
+  {
+    "category": "Privacy & Data",
+    "items": [
+      {
+        "question": "Will my photos and data be kept private?",
+        "answer": "Yes. Data is encrypted, securely stored, and only accessible to essential staff."
+      },
+      {
+        "question": "Is my information safe?",
+        "answer": "Yes. Qoves follows strict privacy and data protection protocols."
+      },
+      {
+        "question": "Can I delete my account and all my data?",
+        "answer": "Yes. Users can request complete data deletion from account settings."
+      }
+    ]
+  },
+  {
+    "category": "Mindset & Philosophy",
+    "items": [
+      {
+        "question": "Is wanting to improve your appearance toxic?",
+        "answer": "Qoves states that self-improvement in appearance is similar to improving health, finances, or relationships."
+      },
+      {
+        "question": "Will this make me feel worse about yourself?",
+        "answer": "Qoves aims to provide clarity, reduce uncertainty, and help users feel more confident."
+      },
+      {
+        "question": "Do I really need this to look better?",
+        "answer": "Qoves says independent research can help, but their platform makes the process easier and more effective."
+      },
+      {
+        "question": "Isn’t this promoting toxic beauty standards?",
+        "answer": "Qoves focuses on natural, healthy-looking improvements while preserving unique facial characteristics."
+      }
+    ]
+  },
+  {
+    "category": "Practical Concerns",
+    "items": [
+      {
+        "question": "I’ve had cosmetic procedures before—will this still work?",
+        "answer": "Yes. Qoves tailors recommendations based on previous procedures."
+      },
+      {
+        "question": "I don’t want surgery—can this still help me?",
+        "answer": "Yes. Qoves specializes in non-surgical improvements."
+      },
+      {
+        "question": "I live outside the US—can I still use Qoves?",
+        "answer": "Yes. The service is fully online and available worldwide."
+      },
+      {
+        "question": "I don’t know anything about facial aesthetics—is that okay?",
+        "answer": "Yes. Qoves is designed to be accessible even for beginners."
+      }
+    ]
+  },
+  {
+    "category": "About Support",
+    "items": [
+      {
+        "question": "Can I really talk to your team?",
+        "answer": "Yes. Users can message the aesthetic team anytime through the dashboard."
+      },
+      {
+        "question": "What if a recommendation doesn’t work for me?",
+        "answer": "Qoves can adjust protocols with alternatives."
+      },
+      {
+        "question": "How can I contact Qoves if I need help?",
+        "answer": "Users can contact via dashboard, email, or live chat."
+      },
+      {
+        "question": "Will I get support from a real person or just AI?",
+        "answer": "Support is always provided by real people."
+      },
+      {
+        "question": "How quickly do you respond to questions?",
+        "answer": "Usually within 24 hours, often faster."
+      },
+      {
+        "question": "Can someone help me understand my results?",
+        "answer": "Yes. The team can explain results and next steps."
+      },
+      {
+        "question": "Still unsure?",
+        "answer": "Users can email inquiry@qoves.com for additional help."
+      }
+    ]
+  }
+]

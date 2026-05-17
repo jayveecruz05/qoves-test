@@ -1,0 +1,12 @@
+@import 'tailwindcss';
+@import './tailwind.css';
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--primary);
+  font-family: var(--font-pp-neue-montreal), var(--font-zagma-mono), Arial, Helvetica, sans-serif;
+}
